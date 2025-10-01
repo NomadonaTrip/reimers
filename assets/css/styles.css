@@ -1,0 +1,17 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  scroll-behavior: smooth;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Montserrat", sans-serif;
+}
+.hero-gradient {
+  background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+}
+.testimonial-card {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
